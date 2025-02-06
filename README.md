@@ -1,0 +1,1 @@
+This Project contains the PPTX file and an IPYNB file which shows that I have extracted the dataset from the database, cleaned the data using various techniques, saving the dataset and then loading the dataset in a newly created schema in the PostgreSQL database.
